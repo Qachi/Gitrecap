@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("THIS IS CONTAINED IN MY NEW COMMIT")
+        println("THIS IS CONTAINED IN MY NEW COMMIT ")
+        today is a good day
     }
 }
