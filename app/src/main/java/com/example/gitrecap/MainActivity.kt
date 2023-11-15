@@ -8,11 +8,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("THIS IS CONTAINED IN MY NEW COMMIT")
+        println("THIS IS CONTAINED IN MY NEW COMMIT 2")
         gvdDjknkjnFKJNKN
-        println("LOCAL CHANGE")
+        println("LOCAL CHANGE 2")
         bgausfjeankjfnwshfafk.n
 
-        println("Change 2")
+        println("Change 33com")
+
     }
 }
