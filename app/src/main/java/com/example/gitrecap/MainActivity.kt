@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         bgausfjeankjfnwshfafk.n
 
         println("Change 33com")
+        marging using terminal
 
     }
 }
